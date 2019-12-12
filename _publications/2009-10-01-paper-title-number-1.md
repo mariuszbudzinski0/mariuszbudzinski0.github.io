@@ -10,5 +10,4 @@ venue: 'Communications in Algebra  Volume 45, 2017 - Issue 4'
 ---
 
 
-[Download paper here](http://mariuszbudzinski0.github.io/files/Paper_quantumn.pdf)
 
