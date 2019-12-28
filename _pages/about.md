@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Statistics at Bocconi University in Milan, Italy.
-My research interests are in machine learning, applyed statistics and Bayesian nonparametrics.
+Welcome to my personal web page!
 
+I am a second PhD student in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) (Milan, Italy).
+## Research interest
+I am interested in a. More specifically, I am working on:
 
+ **machine learning **
+
+* **applyed statistics**.
+
+**e-mail**: mariuszbudzinski94@gmail.com
