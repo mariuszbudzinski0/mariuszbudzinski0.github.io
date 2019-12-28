@@ -14,7 +14,7 @@ I am a second PhD student in Statistics at [Bocconi University](https://www.unib
 ## Research interest
 I am interested in a:
 
-* **machine learning**
+* **machine learning**,
 
 * **applyed statistics**.
 
