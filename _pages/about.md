@@ -18,4 +18,4 @@ I am interested in a. More specifically, I am working on:
 
 * **applyed statistics**.
 
-**e-mail**: mariuszbudzinski94@gmail.com
+**e-mail**: mariuszbudzinski94@gmail.com .
