@@ -16,6 +16,6 @@ I am interested in a:
 
 * **machine learning**,
 
-* **applyed statistics**.
+* **applied statistics**.
 
 **e-mail**: mariuszbudzinski94@gmail.com .
