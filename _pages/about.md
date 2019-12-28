@@ -11,5 +11,4 @@ redirect_from:
 I am a second year PhD student in Statistics at Bocconi University in Milan, Italy.
 My research interests are in machine learning, applyed statistics and Bayesian nonparametrics.
 
-A data-driven personal website
-======
+
