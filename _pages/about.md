@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal web page!
 
-I am a second PhD student in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) (Milan, Italy).
+I am a second year PhD student in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) (Milan, Italy).
 ## Research interest
 I am interested in a:
 
